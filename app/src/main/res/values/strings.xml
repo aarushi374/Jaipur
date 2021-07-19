@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Jaipur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+     <string name="rating">Rating:</string>
+    <string name="cost">Cost:</string>
+    <string name="famous_for">Famous For: Monument Fort/ Fortess History and Culture</string>
+    <string name="amenities">Amenities:</string>
+    <string name="city_center">to City center</string>
+    <string name="entrancefee">Entrance fee:</string>
+    <string name="visit">Visiting Time:</string>
+    <string name="duration">Visiting Duration:</string>
+    <string name="musttry">Must Try:</string>
+    <string name="cuisine">Cuisine:</string>
+    <string name="costfortwo">Cost For Two:</string>
+    <string name="famous_for_lovers">Famous For: Nature Lovers, Experience Seekers, History, Photo</string>
+    <string name="foreign">for Foreign Tourists and</string>
+    <string name="indians">for Indians</string>
+    <string name="intro1">Jaipur, popularly known as the Pink City of India, is the largest city in the state of Rajasthan. It is also the capital of Rajasthan. Known for Hawa Mahal, Jal Mahal, Amer Fort, Jantar Mantar and several other places to visit, Jaipur has numerous stories to tell. Each place has a history of its own and the stories, legends and myths make it even more special.</string>
+    <string name="intro2">Planned by Vidyadhar Bhattacharya, Jaipur holds the distinction of being the first planned city of India. Renowned globally for its coloured gems, the capital city of Rajasthan combines the allure of its ancient history with all the advantages of a metropolis. The bustling modern city is one of the three corners of the golden triangle that includes Delhi, Agra and Jaipur.</string>
+    <string name="intro3">The story goes that in 1876, the Prince of Wales visited India on a tour. Since the colour pink was symbolic of hospitality, Maharaja Ram Singh of Jaipur painted the entire city pink. The pink that colours the city makes for a marvellous spectacle to behold. Jaipur rises up majestically against the backdrop of the forts Nahargarh, Jaigarh and Garh Ganesh Temple</string>
+</resources>
